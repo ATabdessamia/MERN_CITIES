@@ -16,9 +16,9 @@ const Card = ({ tour }) => {
           }}
         >
           {icon ? (
-            <i className={`far fa-arrow-alt-circle-down`}></i>
-          ) : (
             <i className={`far fa-arrow-alt-circle-up`}></i>
+          ) : (
+            <i className={`far fa-arrow-alt-circle-down`}></i>
           )}
         </button>
         {read ? <p className="card-text">{tour.info}</p> : null}
