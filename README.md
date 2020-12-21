@@ -1,2 +1,2 @@
 # MERN_CITIES
-BEST OF CITIES IN THE WORLD
+use [npm run dev](https://) to see my joke :sunglasses: 
